@@ -1,20 +1,33 @@
-<h1 align="center">Hi 👋, I'm Jiaqi(Victoria) Duan</h1>
-<h3 align="center">Computer Science and Engineering Master Student at University of California, Santa Cruz</h3>
+<h1 align="left">Hey! You have reached Victoria's Github Profile 👋 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriakaey&label=Profile%20views&color=0e75b6&style=flat" alt="victoriakaey" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=victoriakaey&label=Profile%20views&color=0e75b6&style=flat" alt="victoriakaey" /> 
+  </p>
 
-- 👨‍💻 All of my projects are available at [victoria-duan.vercel.app/](victoria-duan.vercel.app/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jiaqi-duan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiaqi-duan-linkedin" height="30" width="30" />
+  </a>
+  <a href="https://victoria-duan.vercel.app/" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=a04gr8MLo013&format=png&color=000000" alt="jiaqi-duan-portfolio" height="48" width="40" />
+  </a>
+  <a href="mailto:jd.victoria.work@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" alt="jiaqi-duan-email" height="50" width="45" />
+  </a>
+  
+</p>
 
-- 📫 How to reach me **jd.victoria.work@gmail.com**
-
-<p>
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriakaey&show_icons=true&locale=en&layout=compact" alt="victoriakaey" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jiaqi-duan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jiaqi-duan/" height="30" width="40" /></a>
-</p>
+
+
+
+
+
+
+
 
 
 <h3 align="left">Programming Languages:</h3>
