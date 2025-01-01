@@ -4,37 +4,29 @@
     <img src="https://komarev.com/ghpvc/?username=victoriakaey&label=Profile%20views&color=0e75b6&style=flat" alt="victoriakaey" /> 
 </p>
 
+<p align="left">  
+    <p>
+        I’m Jiaqi Duan, and you may also call me Victoria. 
+    </p>
+    <p>
+        I'm a Computer Science & Engineering master’s student at UC Santa Cruz, based in the SF Bay Area, graduating in April 2026. 
+    </p>
+    <p>
+        With a blend of backgrounds in Computer Science and Psychology, I’m passionate about creating software that combines innovative tech with thoughtful, human-centered design. I’m excited to find opportunities as a Software Engineer where I can contribute to meaningful, collaborative projects.
+    </p>
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/jiaqi-duan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiaqi-duan-linkedin" height="30" width="30" />
   </a>
   <a href="https://victoria-duan.vercel.app/" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=a04gr8MLo013&format=png&color=000000" alt="jiaqi-duan-portfolio" height="48" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=ZovicwSP5Trl&format=png&color=000000" alt="jiaqi-duan-portfolio" height="48" width="48" />
   </a>
   <a href="mailto:jd.victoria.work@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" alt="jiaqi-duan-email" height="50" width="45" />
   </a>
-  
 </p>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriakaey&show_icons=true&locale=en&layout=compact" alt="victoriakaey" />
-    <p>
-        I’m Jiaqi Duan, and you may also call me Victoria. I'm a Computer Science & Engineering master’s student at UC Santa Cruz, based in the SF Bay Area, graduating in April 2026. 
-        </p>
-        <p>
-        With a blend of backgrounds in Computer Science and Psychology, I’m passionate about creating software that combines innovative tech with thoughtful, human-centered design. I’m excited to find opportunities as a Software Engineer where I can contribute to meaningful, collaborative projects.
-    </p>
-</p>
-
-
-
-
-
-
-
-
-
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
@@ -189,3 +181,5 @@
   </a> 
   </a> 
 </p>
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriakaey&show_icons=true&locale=en&layout=compact" alt="victoriakaey" />  --!>
