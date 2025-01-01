@@ -2,7 +2,7 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=victoriakaey&label=Profile%20views&color=0e75b6&style=flat" alt="victoriakaey" /> 
-  </p>
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jiaqi-duan/" target="blank">
@@ -19,6 +19,12 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriakaey&show_icons=true&locale=en&layout=compact" alt="victoriakaey" />
+    <p>
+        I’m Jiaqi Duan, and you may also call me Victoria. I'm a Computer Science & Engineering master’s student at UC Santa Cruz, based in the SF Bay Area, graduating in April 2026. 
+        </p>
+        <p>
+        With a blend of backgrounds in Computer Science and Psychology, I’m passionate about creating software that combines innovative tech with thoughtful, human-centered design. I’m excited to find opportunities as a Software Engineer where I can contribute to meaningful, collaborative projects.
+    </p>
 </p>
 
 
