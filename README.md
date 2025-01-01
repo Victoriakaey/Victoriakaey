@@ -9,7 +9,7 @@
         I’m Jiaqi Duan, and you may also call me Victoria. 
     </p>
     <p>
-        I'm a Computer Science & Engineering master’s student at UC Santa Cruz, based in the SF Bay Area, graduating in April 2026. 
+        I'm a Computer Science & Engineering master’s student based in the SF Bay Area, graduating in April 2026. 
     </p>
     <p>
         With a blend of backgrounds in Computer Science and Psychology, I’m passionate about creating software that combines innovative tech with thoughtful, human-centered design. I’m excited to find opportunities as a Software Engineer where I can contribute to meaningful, collaborative projects.
