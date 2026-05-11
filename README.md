@@ -2,7 +2,7 @@
 
 I build AI systems focused on reliability, orchestration, and human-centered workflows.
 
-Recently, I’ve been working on multi-agent systems involving retrieval, planning, critique loops, structured generation, and fallback/recovery pipelines for LLM-powered applications.
+Recently, I’ve been working on agentic systems involving retrieval, planning, critique loops, structured generation, and fallback/recovery pipelines for LLM-powered applications.
 
 I'm especially interested in how AI systems behave in real-world settings — including evaluation, tracing, validation, and coordination between agents and tools.
 
