@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=victoriakaey&color=grey)
 
 # Hey, I'm Jiaqi Duan (Victoria)
+![](https://komarev.com/ghpvc/?username=victoriakaey&color=grey)
 
 I build AI systems focused on reliability, orchestration, and human-centered workflows.
 
