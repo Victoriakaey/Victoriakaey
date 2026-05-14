@@ -9,11 +9,9 @@ Recently, I’ve been working on agentic systems involving retrieval, planning, 
 I'm especially interested in how AI systems behave in real-world settings — including evaluation, tracing, validation, and coordination between agents and tools.
 
 ## Current Focus
-- Multi-agent LLM systems
-- Agent evaluation & reliability
-- Structured generation pipelines
-- Retrieval and planning workflows
-- Local LLM infrastructure
+- Agent orchestration and coordination
+- Retrieval-augmented reasoning systems
+- Self-correcting and observable AI workflows
 
 ## Tech
 Python · TypeScript · FastAPI · React · Next.js · PostgreSQL · Redis · Docker
